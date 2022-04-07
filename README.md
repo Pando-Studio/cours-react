@@ -2,6 +2,20 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Exercices & Sources
+
+[Class](https://drive.google.com/drive/folders/1DEp0udztvxZMYAqxXpGyDG16wNmsMyvK)
+
+[Part 1 Youtube tuto](https://www.youtube.com/watch?v=f0X1Tl8aHtA)
+
+[Part 2 Youtube context](https://www.youtube.com/watch?v=lhMKvyLRWo0)
+
+## Typescript
+
+npx create-react-app cours-react1 --template typescript
+cd cours-react1
+npm start
+
 ## Available Scripts
 
 In the project directory, you can run:
