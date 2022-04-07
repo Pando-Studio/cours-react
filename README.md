@@ -12,9 +12,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Part 2 Youtube context](https://www.youtube.com/watch?v=lhMKvyLRWo0)
 
-Part 3 Ant Design
+[Part 3 Ant Design](https://ant.design/)
 
-Part 4 Netlify
+[Part 4 Build and Deploy => Netlify](https://app.netlify.com/)
+
+https://cours-react.netlify.app/
 
 ## Typescript
 
