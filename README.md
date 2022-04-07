@@ -4,6 +4,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Exercices & Sources
 
+[Discord](https://discord.gg/pABuxPZa)
+
 [Class](https://drive.google.com/drive/folders/1DEp0udztvxZMYAqxXpGyDG16wNmsMyvK)
 
 [Part 1 Youtube tuto](https://www.youtube.com/watch?v=f0X1Tl8aHtA)
