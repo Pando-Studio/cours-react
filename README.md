@@ -10,11 +10,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 [Part 2 Youtube context](https://www.youtube.com/watch?v=lhMKvyLRWo0)
 
+Part 3 Ant Design
+
+Part 4 Netlify
+
 ## Typescript
 
-npx create-react-app cours-react1 --template typescript
-cd cours-react1
-npm start
+`npx create-react-app cours-react1 --template typescript`
+`cd cours-react1`
+`npm start`
 
 ## Available Scripts
 
